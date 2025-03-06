@@ -11,5 +11,12 @@ public class main
 		moto1.accellera(24);
 
 		//non ho provato il programma perchè ho problemi a casa con il compilatore :)
+
+		MotorinoImmatricolato moto2 = new MotorinoImmatricolato(90, "Kawasaki");
+
+		moto2.getMax();
+		moto2.accellera(12);
+
+		//non ho provato il programma perchè ho problemi a casa con il compilatore :)
 	}
 }

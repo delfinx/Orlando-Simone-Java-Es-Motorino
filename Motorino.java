@@ -1,8 +1,8 @@
 public class Motorino {
     private String colore;
-    private float velocita;
+    public float velocita;
     private String tipo;
-    private boolean antifurto = false;
+    public boolean antifurto = false;
 
     public Motorino(String colore, float velocita, String tipo){
         this.colore = colore;
